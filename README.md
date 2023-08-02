@@ -20,3 +20,33 @@
 </h1>
 
 </div>
+
+
+### :woman_technologist: About Me :
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+- :telescope: I’m working as a Web Developer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Web Development with NextJS.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephanygracetayong/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://img.shields.io/badge/react-1E3F66?style=for-the-badge&logo=react&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/javascript-F0DC55?style=for-the-badge&logo=javascript&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/mysql-4A7DA4?style=for-the-badge&logo=mysql&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/node-7BB266?style=for-the-badge&logo=nodejs&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/php-8A93BE?style=for-the-badge&logo=php&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/tailwind-528AAE?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/ubuntu-F47828?style=for-the-badge&logo=ubuntu&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/git-F05539?style=for-the-badge&logo=git&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/css-379AD6?style=for-the-badge&logo=css3&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/mui-0883FF?style=for-the-badge&logo=mui&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/html-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
+
