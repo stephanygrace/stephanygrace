@@ -47,6 +47,7 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
   <img src="https://img.shields.io/badge/css-379AD6?style=for-the-badge&logo=css3&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/mui-0883FF?style=for-the-badge&logo=mui&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/html-F16529?style=for-the-badge&logo=html5&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/figma-30333C?style=for-the-badge&logo=figma&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 
